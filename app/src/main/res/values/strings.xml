@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BanGDream 账号助手</string>
+    <string name="action_about">关于</string>
+    <string name="fine">好</string>
+    <string name="app_error_file_not_found">找不到账号文件&#8230;</string>
+    <string name="app_error_file_not_found_description">&gt;_&lt; 请先安装 Bandori Girls Band Party! 或授予本程序读写存储权限后再运行本程序。</string>
+    <string name="app_init_success">初始化成功</string>
+    <string name="app_init_description">已成功创建数据文件夹，并备份了您当前的账号文件~</string>
+    <string name="app_request_permission">请授予存储权限~</string>
+    <string name="app_request_permission_info">为了访问 Bandori Girls Band Party! 的账号文件，程序需要读写存储的权限。</string>
+    <string name="default_account">默认账号</string>
+    <string name="default_auto_backup">首次运行时自动备份的账号</string>
+    <string name="current_account_backed_up">已为您自动备份当前账号</string>
+    <string name="current_account_backed_up_description">检测到当前账号未被程序索引，为了防止应用其他账号导致当前账号数据丢失，已为您自动备份了当前账号 &gt;_&lt;</string>
+    <string name="success">成功</string>
+    <string name="delete">删除该账号</string>
+    <string name="sure_to_delete">确定要删除该账号吗？</string>
+    <string name="add_current">导入当前账号文件</string>
+    <string name="add_custom">从其他位置导入</string>
+    <string name="action_new_account">创建新的游戏账号</string>
+    <string name="action_run_garupa">启动游戏</string>
+    <string name="delete_success">已为您备份当前账号，运行游戏即可创建新的账号。\n运行一次游戏并创建账号后，选择导入当前账号文件即可。</string>
+    <string name="about">关于 BanGDream 账号助手</string>
+    <string name="about_info">App by @kirainmoe\n\n这是一个用于管理和快速切换 BanG Dream 多账号的 App。目前只支持日服。\n\n程序仍未完善，难免有无法预料的 BUG 发生，建议您在使用此程序的同时自行备份各账号的引继码。\n\n使用过程中有任何问题请联系 kirainmoe@gmail.com .</string>
+</resources>
